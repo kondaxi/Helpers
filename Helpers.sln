@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kondaxi.Helpers.Runnables", "Kondaxi.Helpers.Runnables\Kondaxi.Helpers.Runnables.csproj", "{3D28C077-711B-40CF-B9FB-81535F89C2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kondaxi.Helpers.Runnables.Tests", "Kondaxi.Helpers.Runnables.Tests\Kondaxi.Helpers.Runnables.Tests.csproj", "{48EFF451-13F2-454D-A051-D2838B0AAC6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D28C077-711B-40CF-B9FB-81535F89C2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D28C077-711B-40CF-B9FB-81535F89C2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D28C077-711B-40CF-B9FB-81535F89C2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D28C077-711B-40CF-B9FB-81535F89C2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EFF451-13F2-454D-A051-D2838B0AAC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EFF451-13F2-454D-A051-D2838B0AAC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EFF451-13F2-454D-A051-D2838B0AAC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EFF451-13F2-454D-A051-D2838B0AAC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F66155D-A929-4085-AAFB-45E972794D55}
+	EndGlobalSection
+EndGlobal
